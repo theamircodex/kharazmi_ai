@@ -25,7 +25,7 @@ python 3.9 , Node.js v20.11.1
 ### Segment Anything Meta
 
 * pip install git+https://github.com/facebookresearch/segment-anything.git
-* سپس این مدل های segment anything را دانلود کرده و در فولدر checkpoints واقع در SRCCODE کپی کنید
+سپس این مدل های segment anything را دانلود کرده و در فولدر checkpoints واقع در SRCCODE کپی کنید
 * [high-version](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth)
 * [bit-version](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth)
 
