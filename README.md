@@ -16,6 +16,9 @@ python 3.9 , Node.js v20.11.1
 * کتابخانه هایی که مدل روی آنها تست شده و به خوبی کار میکند در requirements.txt قرار گرفته
 * pip install -r requirements.txt
 
+
+
+
 ### DeepFashion2 Weights (تشخیص لندمارک ها)
 
 * سپس لطفا فایل pose_hrnet-w48_384x288-deepfashion2_mAP_0.7017.pth را از لینک زیر دانلود کنید و در پوشه models_data واقع در SRCCODE کپی کنید
