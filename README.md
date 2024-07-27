@@ -57,9 +57,11 @@ python 3.9 , Node.js v20.11.1
 ## شرایط تصاویر ورودی 
 
 توجه : اگر تصاویر شما از قائده های زیر پیروی کند , میتوانید آنرا به مدل دهید و میتوانید تست کنید یا میتوانید از تصاویر آماده در پوشه images استفاده کنید
-![alt](https://i.postimg.cc/vcvt1qvS/Screenshot-2024-07-26-170435.png)
-![alt](https://i.postimg.cc/pmXYKfGV/Screenshot-2024-07-26-170458.png)
-![alt](https://i.postimg.cc/21cdG1MQ/Screenshot-2024-07-26-170511.png)
+![alt](https://iili.io/dzeOh4R.md.png)
+
+![alt](https://iili.io/dzeOMQa.md.png)
+
+![alt](https://iili.io/dzeOWCJ.md.png)
 
 ## جمع بندی
 
