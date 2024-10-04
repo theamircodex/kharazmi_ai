@@ -11,3 +11,8 @@ torchaudio==0.9.1
 torchvision==0.10.1+cu111
 tensorflow==2.10.0
 tensorflow-gpu==2.10.0
+
+mmcv                              1.7.1
+mmengine                          0.8.4
+mmtrack                           0.14.0
+mmcls                             0.25.0
